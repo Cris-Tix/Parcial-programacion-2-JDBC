@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS Duenio (
+    idDuenio INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(100),
+    celDuenio VARCHAR(20)
+);
+
+CREATE TABLE IF NOT EXISTS Mascota (
+    idMascota INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(100),
+    especie VARCHAR(50),
+    idDuenio INT,
+    FOREIGN KEY (idDuenio) REFERENCES Duenio(idDuenio)
+);

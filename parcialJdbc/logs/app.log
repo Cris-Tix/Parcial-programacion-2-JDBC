@@ -1,0 +1,536 @@
+[2025-06-01 16:59:22] [INFO ] parcialJava.util.DatabaseUtil - Tablas creadas o verificadas correctamente.
+[2025-06-01 17:00:01] [INFO ] parcialJava.Main - Dueño agregado correctamente: Duenio{idDuenio=0, nombre='Manu', celDuenio='125888436'}
+[2025-06-01 17:00:32] [INFO ] parcialJava.Main - Mascota agregada correctamente: Mascota{idMascota=0, nombre='Rocky', especie='Perro', idDuenio=6}
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - Lista de mascotas:
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - ID: 1 | Nombre: Shina | Especie: Perro | ID Dueño: 1
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - ID: 2 | Nombre: Broly | Especie: Perro | ID Dueño: 1
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - ID: 3 | Nombre: Pelusa | Especie: Gato | ID Dueño: 2
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - ID: 4 | Nombre: Kira | Especie: Perro | ID Dueño: 3
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - ID: 5 | Nombre: Simba | Especie: Perro | ID Dueño: 2
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - ID: 6 | Nombre: Kimi | Especie: Perro | ID Dueño: 2
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - ID: 7 | Nombre: Moca | Especie: Perro | ID Dueño: 2
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - ID: 8 | Nombre: Manchita | Especie: Perro | ID Dueño: 2
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - ID: 9 | Nombre: Negrita | Especie: Perro | ID Dueño: 2
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - ID: 10 | Nombre: Ozzy | Especie: Gato | ID Dueño: 4
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - ID: 11 | Nombre: Runa | Especie: Perro | ID Dueño: 4
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - ID: 12 | Nombre: Shaka | Especie: Perro | ID Dueño: 4
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - ID: 13 | Nombre: Pichichon | Especie: Perro | ID Dueño: 5
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - ID: 14 | Nombre: Rayis | Especie: Gato | ID Dueño: 5
+[2025-06-01 17:00:46] [INFO ] parcialJava.Main - ID: 15 | Nombre: Rocky | Especie: Perro | ID Dueño: 6
+[2025-06-01 17:01:09] [WARN ] parcialJava.Main - Opción inválida. Intente nuevamente.
+[2025-06-01 17:01:19] [INFO ] parcialJava.Main - Saliendo del programa...
+[2025-06-01 18:30:47] [INFO ] parcialJava.util.DatabaseUtil - Tablas creadas o verificadas correctamente.
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - Lista de mascotas:
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - ID: 1 | Nombre: Shina | Especie: Perro | ID Dueño: 1
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - ID: 2 | Nombre: Broly | Especie: Perro | ID Dueño: 1
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - ID: 3 | Nombre: Pelusa | Especie: Gato | ID Dueño: 2
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - ID: 4 | Nombre: Kira | Especie: Perro | ID Dueño: 3
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - ID: 5 | Nombre: Simba | Especie: Perro | ID Dueño: 2
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - ID: 6 | Nombre: Kimi | Especie: Perro | ID Dueño: 2
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - ID: 7 | Nombre: Moca | Especie: Perro | ID Dueño: 2
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - ID: 8 | Nombre: Manchita | Especie: Perro | ID Dueño: 2
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - ID: 9 | Nombre: Negrita | Especie: Perro | ID Dueño: 2
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - ID: 10 | Nombre: Ozzy | Especie: Gato | ID Dueño: 4
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - ID: 11 | Nombre: Runa | Especie: Perro | ID Dueño: 4
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - ID: 12 | Nombre: Shaka | Especie: Perro | ID Dueño: 4
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - ID: 13 | Nombre: Pichichon | Especie: Perro | ID Dueño: 5
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - ID: 14 | Nombre: Rayis | Especie: Gato | ID Dueño: 5
+[2025-06-01 18:31:00] [INFO ] parcialJava.Main - ID: 15 | Nombre: Rocky | Especie: Perro | ID Dueño: 6
+[2025-06-01 18:31:32] [INFO ] parcialJava.Main - Saliendo del programa...
+[2025-06-01 19:02:37] [INFO ] parcialJava.util.DatabaseUtil - Tablas creadas o verificadas correctamente.
+[2025-06-01 19:02:37] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:02:37] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:02:37] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:02:37] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:02:37] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:02:37] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:02:37] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:02:37] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:02:37] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:02:37] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:02:37] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:02:50] [ERROR] parcialJava.dao.DuenioDAOImpl - Error al listar dueños
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "DUENIOS" no encontrada
+Table "DUENIOS" not found; SQL statement:
+SELECT * FROM duenios [42102-232]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:514) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.message.DbException.get(DbException.java:223) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.message.DbException.get(DbException.java:199) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.getTableOrViewNotFoundDbException(Parser.java:7945) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.getTableOrViewNotFoundDbException(Parser.java:7916) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.readTableOrView(Parser.java:7895) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.readTablePrimary(Parser.java:1769) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.readTableReference(Parser.java:2249) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.parseSelectFromPart(Parser.java:2702) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.parseSelect(Parser.java:2810) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.parseQueryPrimary(Parser.java:2692) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.parseQueryTerm(Parser.java:2547) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.parseQueryExpressionBody(Parser.java:2526) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.parseQueryExpressionBodyAndEndOfQuery(Parser.java:2519) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.parseQueryExpression(Parser.java:2512) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.parseQuery(Parser.java:2479) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.parsePrepared(Parser.java:610) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.parse(Parser.java:581) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.parse(Parser.java:556) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.command.Parser.prepareCommand(Parser.java:484) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.engine.SessionLocal.prepareLocal(SessionLocal.java:645) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.engine.SessionLocal.prepareCommand(SessionLocal.java:561) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1164) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.jdbc.JdbcStatement.executeQuery(JdbcStatement.java:94) ~[h2-2.3.232.jar:2.3.232]
+	at parcialJava.dao.DuenioDAOImpl.listarTodos(DuenioDAOImpl.java:39) [main/:?]
+	at parcialJava.Main.main(Main.java:59) [main/:?]
+[2025-06-01 19:02:50] [INFO ] parcialJava.Main - No hay dueños registrados.
+[2025-06-01 19:02:50] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:02:50] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:02:50] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:02:50] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:02:50] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:02:50] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:02:50] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:02:50] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:02:50] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:02:50] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:02:50] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:07:55] [INFO ] parcialJava.util.DatabaseUtil - Tablas creadas o verificadas correctamente.
+[2025-06-01 19:07:55] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:07:55] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:07:55] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:07:55] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:07:55] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:07:55] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:07:55] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:07:55] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:07:55] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:07:55] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:07:55] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - 
+Lista de dueños:
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - ID: 1 | Nombre: Cristian | Cel: 1231254
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - ID: 2 | Nombre: Micaela | Cel: 32132112
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - ID: 3 | Nombre: Romina | Cel: 213465876
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - ID: 4 | Nombre: Marcela | Cel: 12369548
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - ID: 5 | Nombre: Cumelen | Cel: 4398134
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - ID: 6 | Nombre: Manu | Cel: 125888436
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:08:04] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:08:33] [INFO ] parcialJava.Main - Ingrese ID del dueño a editar:
+[2025-06-01 19:08:53] [INFO ] parcialJava.Main - Nuevo nombre (actual: Cumelen):
+[2025-06-01 19:08:53] [INFO ] parcialJava.Main - Nuevo celular (actual: 4398134):
+[2025-06-01 19:09:11] [INFO ] parcialJava.Main - ✔ Dueño editado correctamente.
+[2025-06-01 19:09:11] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:09:11] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:09:11] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:09:11] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:09:11] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:09:11] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:09:11] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:09:11] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:09:11] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:09:11] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:09:11] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - 
+Lista de dueños:
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - ID: 1 | Nombre: Cristian | Cel: 1231254
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - ID: 2 | Nombre: Micaela | Cel: 32132112
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - ID: 3 | Nombre: Romina | Cel: 213465876
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - ID: 4 | Nombre: Marcela | Cel: 12369548
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - ID: 5 | Nombre:  | Cel: 5
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - ID: 6 | Nombre: Manu | Cel: 125888436
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:09:18] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:09:27] [INFO ] parcialJava.Main - Ingrese ID del dueño a editar:
+[2025-06-01 19:09:30] [INFO ] parcialJava.Main - Nuevo nombre (actual: ):
+[2025-06-01 19:09:39] [INFO ] parcialJava.Main - Nuevo celular (actual: 5):
+[2025-06-01 19:09:51] [INFO ] parcialJava.Main - ✔ Dueño editado correctamente.
+[2025-06-01 19:09:51] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:09:51] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:09:51] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:09:51] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:09:51] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:09:51] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:09:51] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:09:51] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:09:51] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:09:51] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:09:51] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - 
+Lista de dueños:
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - ID: 1 | Nombre: Cristian | Cel: 1231254
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - ID: 2 | Nombre: Micaela | Cel: 32132112
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - ID: 3 | Nombre: Romina | Cel: 213465876
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - ID: 4 | Nombre: Marcela | Cel: 12369548
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - ID: 5 | Nombre: Cumelen veterinaria | Cel: 2617222541
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - ID: 6 | Nombre: Manu | Cel: 125888436
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:09:58] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:10:34] [INFO ] parcialJava.Main - Ingrese ID de la mascota a eliminar:
+[2025-06-01 19:10:45] [INFO ] parcialJava.Main - ✔ Mascota eliminada si existía.
+[2025-06-01 19:10:45] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:10:45] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:10:45] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:10:45] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:10:45] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:10:45] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:10:45] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:10:45] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:10:45] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:10:45] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:10:45] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - 
+Lista de mascotas:
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - ID: 1 | Nombre: Shina | Especie: Perro | ID Dueño: 1
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - ID: 2 | Nombre: Broly | Especie: Perro | ID Dueño: 1
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - ID: 3 | Nombre: Pelusa | Especie: Gato | ID Dueño: 2
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - ID: 4 | Nombre: Kira | Especie: Perro | ID Dueño: 3
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - ID: 5 | Nombre: Simba | Especie: Perro | ID Dueño: 2
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - ID: 6 | Nombre: Kimi | Especie: Perro | ID Dueño: 2
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - ID: 7 | Nombre: Moca | Especie: Perro | ID Dueño: 2
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - ID: 8 | Nombre: Manchita | Especie: Perro | ID Dueño: 2
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - ID: 9 | Nombre: Negrita | Especie: Perro | ID Dueño: 2
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - ID: 10 | Nombre: Ozzy | Especie: Gato | ID Dueño: 4
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - ID: 11 | Nombre: Runa | Especie: Perro | ID Dueño: 4
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - ID: 12 | Nombre: Shaka | Especie: Perro | ID Dueño: 4
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - ID: 13 | Nombre: Pichichon | Especie: Perro | ID Dueño: 5
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - ID: 14 | Nombre: Rayis | Especie: Gato | ID Dueño: 5
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - ID: 15 | Nombre: Rocky | Especie: Perro | ID Dueño: 6
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:10:55] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:11:07] [INFO ] parcialJava.Main - Ingrese ID de la mascota a eliminar:
+[2025-06-01 19:11:10] [INFO ] parcialJava.Main - ✔ Mascota eliminada si existía.
+[2025-06-01 19:11:10] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:11:10] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:11:10] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:11:10] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:11:10] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:11:10] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:11:10] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:11:10] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:11:10] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:11:10] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:11:10] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - 
+Lista de mascotas:
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - ID: 1 | Nombre: Shina | Especie: Perro | ID Dueño: 1
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - ID: 2 | Nombre: Broly | Especie: Perro | ID Dueño: 1
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - ID: 3 | Nombre: Pelusa | Especie: Gato | ID Dueño: 2
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - ID: 4 | Nombre: Kira | Especie: Perro | ID Dueño: 3
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - ID: 5 | Nombre: Simba | Especie: Perro | ID Dueño: 2
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - ID: 6 | Nombre: Kimi | Especie: Perro | ID Dueño: 2
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - ID: 7 | Nombre: Moca | Especie: Perro | ID Dueño: 2
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - ID: 8 | Nombre: Manchita | Especie: Perro | ID Dueño: 2
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - ID: 9 | Nombre: Negrita | Especie: Perro | ID Dueño: 2
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - ID: 10 | Nombre: Ozzy | Especie: Gato | ID Dueño: 4
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - ID: 11 | Nombre: Runa | Especie: Perro | ID Dueño: 4
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - ID: 12 | Nombre: Shaka | Especie: Perro | ID Dueño: 4
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - ID: 13 | Nombre: Pichichon | Especie: Perro | ID Dueño: 5
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - ID: 15 | Nombre: Rocky | Especie: Perro | ID Dueño: 6
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:11:17] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:11:47] [INFO ] parcialJava.Main - Ingrese nombre del dueño:
+[2025-06-01 19:11:53] [INFO ] parcialJava.Main - Ingrese número de celular:
+[2025-06-01 19:12:01] [INFO ] parcialJava.Main - ✔ Dueño agregado correctamente.
+[2025-06-01 19:12:01] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:12:01] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:12:01] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:12:01] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:12:01] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:12:01] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:12:01] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:12:01] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:12:01] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:12:01] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:12:01] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - 
+Lista de dueños:
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - ID: 1 | Nombre: Cristian | Cel: 1231254
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - ID: 2 | Nombre: Micaela | Cel: 32132112
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - ID: 3 | Nombre: Romina | Cel: 213465876
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - ID: 4 | Nombre: Marcela | Cel: 12369548
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - ID: 5 | Nombre: Cumelen veterinaria | Cel: 2617222541
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - ID: 6 | Nombre: Manu | Cel: 125888436
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - ID: 7 | Nombre: probando | Cel: 211111158
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:12:06] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:12:14] [INFO ] parcialJava.Main - Ingrese ID del dueño a eliminar:
+[2025-06-01 19:12:21] [INFO ] parcialJava.Main - ✔ Dueño eliminado si existía.
+[2025-06-01 19:12:21] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:12:21] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:12:21] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:12:21] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:12:21] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:12:21] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:12:21] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:12:21] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:12:21] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:12:21] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:12:21] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - 
+Lista de dueños:
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - ID: 1 | Nombre: Cristian | Cel: 1231254
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - ID: 2 | Nombre: Micaela | Cel: 32132112
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - ID: 3 | Nombre: Romina | Cel: 213465876
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - ID: 4 | Nombre: Marcela | Cel: 12369548
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - ID: 5 | Nombre: Cumelen veterinaria | Cel: 2617222541
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - ID: 6 | Nombre: Manu | Cel: 125888436
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:12:27] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:12:38] [INFO ] parcialJava.Main - Saliendo del programa...
+[2025-06-01 19:16:22] [ERROR] parcialJava.util.DatabaseUtil - Error al crear las tablas
+org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya est� siendo utilizada: "F:/2025/profeNaveda/parcial/parcialTest.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "F:/2025/profeNaveda/parcial/parcialTest.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:690) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.message.DbException.get(DbException.java:212) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.db.Store.convertMVStoreException(Store.java:165) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.db.Store.<init>(Store.java:142) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.engine.Database.<init>(Database.java:326) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.engine.Engine.openSession(Engine.java:92) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.engine.Engine.openSession(Engine.java:222) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.engine.Engine.createSession(Engine.java:201) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:344) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:124) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.Driver.connect(Driver.java:59) ~[h2-2.3.232.jar:2.3.232]
+	at java.sql.DriverManager.getConnection(DriverManager.java:681) ~[java.sql:?]
+	at java.sql.DriverManager.getConnection(DriverManager.java:229) ~[java.sql:?]
+	at parcialJava.util.DatabaseUtil.getConnection(DatabaseUtil.java:27) ~[main/:?]
+	at parcialJava.util.DatabaseUtil.crearTablasSiNoExisten(DatabaseUtil.java:47) [main/:?]
+	at parcialJava.Main.main(Main.java:20) [main/:?]
+Caused by: org.h2.mvstore.MVStoreException: The file is locked: F:/2025/profeNaveda/parcial/parcialTest.mv.db [2.3.232/7]
+	at org.h2.mvstore.DataUtils.newMVStoreException(DataUtils.java:996) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.SingleFileStore.lockFileChannel(SingleFileStore.java:143) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.SingleFileStore.open(SingleFileStore.java:117) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.SingleFileStore.open(SingleFileStore.java:81) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:286) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:2035) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.db.Store.<init>(Store.java:133) ~[h2-2.3.232.jar:2.3.232]
+	... 12 more
+[2025-06-01 19:16:22] [INFO ] parcialJava.Main - ***********************************************
+[2025-06-01 19:16:22] [INFO ] parcialJava.Main - *        Bienvenido a peluquería canina       *
+[2025-06-01 19:16:22] [INFO ] parcialJava.Main - *                 PANLULU �?�✂�?                  *
+[2025-06-01 19:16:22] [INFO ] parcialJava.Main - ***********************************************
+[2025-06-01 19:16:22] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:16:22] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:16:22] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:16:22] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:16:22] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:16:22] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:16:22] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:16:22] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:16:22] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:16:22] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:16:22] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:16:37] [ERROR] parcialJava.util.DatabaseUtil - Error al crear las tablas
+org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya est� siendo utilizada: "F:/2025/profeNaveda/parcial/parcialTest.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "F:/2025/profeNaveda/parcial/parcialTest.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-232]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:690) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.message.DbException.get(DbException.java:212) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.db.Store.convertMVStoreException(Store.java:165) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.db.Store.<init>(Store.java:142) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.engine.Database.<init>(Database.java:326) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.engine.Engine.openSession(Engine.java:92) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.engine.Engine.openSession(Engine.java:222) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.engine.Engine.createSession(Engine.java:201) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:344) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:124) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.Driver.connect(Driver.java:59) ~[h2-2.3.232.jar:2.3.232]
+	at java.sql.DriverManager.getConnection(DriverManager.java:681) ~[java.sql:?]
+	at java.sql.DriverManager.getConnection(DriverManager.java:229) ~[java.sql:?]
+	at parcialJava.util.DatabaseUtil.getConnection(DatabaseUtil.java:27) ~[main/:?]
+	at parcialJava.util.DatabaseUtil.crearTablasSiNoExisten(DatabaseUtil.java:47) [main/:?]
+	at parcialJava.Main.main(Main.java:20) [main/:?]
+Caused by: org.h2.mvstore.MVStoreException: The file is locked: F:/2025/profeNaveda/parcial/parcialTest.mv.db [2.3.232/7]
+	at org.h2.mvstore.DataUtils.newMVStoreException(DataUtils.java:996) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.SingleFileStore.lockFileChannel(SingleFileStore.java:143) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.SingleFileStore.open(SingleFileStore.java:117) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.SingleFileStore.open(SingleFileStore.java:81) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:286) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:2035) ~[h2-2.3.232.jar:2.3.232]
+	at org.h2.mvstore.db.Store.<init>(Store.java:133) ~[h2-2.3.232.jar:2.3.232]
+	... 12 more
+[2025-06-01 19:16:37] [INFO ] parcialJava.Main - ***********************************************
+[2025-06-01 19:16:37] [INFO ] parcialJava.Main - *        Bienvenido a peluquería canina       *
+[2025-06-01 19:16:37] [INFO ] parcialJava.Main - *                 PANLULU ✂                  *
+[2025-06-01 19:16:37] [INFO ] parcialJava.Main - ***********************************************
+[2025-06-01 19:16:37] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:16:37] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:16:37] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:16:37] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:16:37] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:16:37] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:16:37] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:16:37] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:16:37] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:16:37] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:16:37] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:16:54] [INFO ] parcialJava.util.DatabaseUtil - Tablas creadas o verificadas correctamente.
+[2025-06-01 19:16:55] [INFO ] parcialJava.Main - ***********************************************
+[2025-06-01 19:16:55] [INFO ] parcialJava.Main - *        Bienvenido a peluquería canina       *
+[2025-06-01 19:16:55] [INFO ] parcialJava.Main - *                 PANLULU                   *
+[2025-06-01 19:16:55] [INFO ] parcialJava.Main - ***********************************************
+[2025-06-01 19:16:55] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:16:55] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:16:55] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:16:55] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:16:55] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:16:55] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:16:55] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:16:55] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:16:55] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:16:55] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:16:55] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - 
+Lista de dueños:
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - ID: 1 | Nombre: Cristian | Cel: 1231254
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - ID: 2 | Nombre: Micaela | Cel: 32132112
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - ID: 3 | Nombre: Romina | Cel: 213465876
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - ID: 4 | Nombre: Marcela | Cel: 12369548
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - ID: 5 | Nombre: Cumelen veterinaria | Cel: 2617222541
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - ID: 6 | Nombre: Manu | Cel: 125888436
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:17:18] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:17:26] [INFO ] parcialJava.util.DatabaseUtil - Tablas creadas o verificadas correctamente.
+[2025-06-01 19:17:27] [INFO ] parcialJava.Main - ***********************************************
+[2025-06-01 19:17:27] [INFO ] parcialJava.Main - *        Bienvenido a peluquería canina       *
+[2025-06-01 19:17:27] [INFO ] parcialJava.Main - *                 PANLULU                   *
+[2025-06-01 19:17:27] [INFO ] parcialJava.Main - ***********************************************
+[2025-06-01 19:17:27] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:17:27] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:17:27] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:17:27] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:17:27] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:17:27] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:17:27] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:17:27] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:17:27] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:17:27] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:17:27] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:17:43] [INFO ] parcialJava.util.DatabaseUtil - Tablas creadas o verificadas correctamente.
+[2025-06-01 19:17:44] [INFO ] parcialJava.Main - ***********************************************
+[2025-06-01 19:17:44] [INFO ] parcialJava.Main - *        Bienvenido a peluquería canina       *
+[2025-06-01 19:17:44] [INFO ] parcialJava.Main - *                   PANLULU                   *
+[2025-06-01 19:17:44] [INFO ] parcialJava.Main - ***********************************************
+[2025-06-01 19:17:44] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:17:44] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:17:44] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:17:44] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:17:44] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:17:44] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:17:44] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:17:44] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:17:44] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:17:44] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:17:44] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:18:27] [INFO ] parcialJava.util.DatabaseUtil - Tablas creadas o verificadas correctamente.
+[2025-06-01 19:18:28] [INFO ] parcialJava.Main - ***********************************************
+[2025-06-01 19:18:28] [INFO ] parcialJava.Main - *        Bienvenido a peluquería canina       *
+[2025-06-01 19:18:28] [INFO ] parcialJava.Main - *                   PANLULU                   *
+[2025-06-01 19:18:28] [INFO ] parcialJava.Main - ***********************************************
+[2025-06-01 19:18:28] [INFO ] parcialJava.Main - 
+===== MENÚ PRINCIPAL =====
+[2025-06-01 19:18:28] [INFO ] parcialJava.Main - 1. Agregar nuevo dueño
+[2025-06-01 19:18:28] [INFO ] parcialJava.Main - 2. Listar todos los dueños
+[2025-06-01 19:18:28] [INFO ] parcialJava.Main - 3. Agregar mascota a un dueño
+[2025-06-01 19:18:28] [INFO ] parcialJava.Main - 4. Listar todas las mascotas
+[2025-06-01 19:18:28] [INFO ] parcialJava.Main - 5. Editar dueño
+[2025-06-01 19:18:28] [INFO ] parcialJava.Main - 6. Editar mascota
+[2025-06-01 19:18:28] [INFO ] parcialJava.Main - 7. Eliminar dueño
+[2025-06-01 19:18:28] [INFO ] parcialJava.Main - 8. Eliminar mascota
+[2025-06-01 19:18:28] [INFO ] parcialJava.Main - 9. Salir
+[2025-06-01 19:18:28] [INFO ] parcialJava.Main - Seleccione una opción: 
+[2025-06-01 19:18:32] [INFO ] parcialJava.Main - Saliendo del programa...
